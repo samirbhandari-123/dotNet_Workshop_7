@@ -1,6 +1,6 @@
 ﻿@page "/monkeys"
 
-<h2 class="title">Monkey Collection</h2>
+<h3 class="title">Monkeys</h3>
 
 @if (monkeyList.Count == 0)
 {
@@ -13,12 +13,16 @@ else
         {
             <div class="monkey-card">
                 <img src="@monkey.Image" alt="@monkey.Name" class="monkey-photo" />
-                <h3>@monkey.Name</h3>
+                <h4>@monkey.Name</h4>
                 <p>@monkey.Location</p>
             </div>
         }
     </div>
 }
+
+<p style="text-align:center; margin-top:20px;">
+    More Monkeys on <a href="https://github.com/jamesmontemagno/app-monkeys" target="_blank">this link</a>.
+</p>
 
 @code {
     public class Monkey
@@ -28,25 +32,10 @@ else
         public string Image { get; set; }
     }
 
-    List<Monkey> monkeyList = new()
+    List<Monkey> monkeyList = new List<Monkey>
     {
-        new Monkey
-        {
-            Name = "Baboon",
-            Location = "Africa & Asia",
-            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
-        },
-        new Monkey
-        {
-            Name = "Capuchin Monkey",
-            Location = "Central & South America",
-            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg"
-        },
-        new Monkey
-        {
-            Name = "Blue Monkey",
-            Location = "Central and East Africa",
-            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg"
-        }
+        new Monkey { Name = "Baboon", Location = "Africa & Asia", Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg" },
+        new Monkey { Name = "Capuchin Monkey", Location = "Central & South America", Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg" },
+        new Monkey { Name = "Blue Monkey", Location = "Central and East Africa", Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg" }
     };
 }
