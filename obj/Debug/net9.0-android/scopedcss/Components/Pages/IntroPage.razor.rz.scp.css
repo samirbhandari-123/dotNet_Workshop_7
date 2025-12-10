@@ -1,0 +1,23 @@
+.title[b-2h64elkl0o] {
+    color: #003366;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.intro-container[b-2h64elkl0o] {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.college-photo[b-2h64elkl0o] {
+    width: 80%;
+    max-width: 500px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.description[b-2h64elkl0o] {
+    margin-top: 20px;
+    font-size: 1.1rem;
+    color: #444;
+}

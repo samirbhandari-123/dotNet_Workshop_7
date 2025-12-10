@@ -1,0 +1,23 @@
+﻿.title {
+    color: #003366;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.intro-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.college-photo {
+    width: 80%;
+    max-width: 500px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.description {
+    margin-top: 20px;
+    font-size: 1.1rem;
+    color: #444;
+}

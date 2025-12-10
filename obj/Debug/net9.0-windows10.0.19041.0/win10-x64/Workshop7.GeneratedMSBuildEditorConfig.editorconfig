@@ -56,13 +56,6 @@ build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Third Year/Application Development/Week 7/Workshop7/Components/Pages/IntroPage.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnRyb1BhZ2UucmF6b3I=
-build_metadata.AdditionalFiles.RelativePath = 
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Third Year/Application Development/Week 7/Workshop7/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
@@ -97,3 +90,24 @@ build_metadata.AdditionalFiles.ManifestResourceName =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = b-uxkxie9tvm
+
+[D:/Third Year/Application Development/Week 7/Workshop7/Components/Pages/IntroPage.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnRyb1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-2h64elkl0o
+
+[D:/Third Year/Application Development/Week 7/Workshop7/Components/Pages/Monkeys.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNb25rZXlzLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-xuqm4libgd
+
+[D:/Third Year/Application Development/Week 7/Workshop7/Components/Pages/Profile.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9maWxlLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-lrig8lcdw9

@@ -1,0 +1,21 @@
+.header[b-lrig8lcdw9] {
+    text-align: center;
+    color: #004080;
+}
+
+.profile-card[b-lrig8lcdw9] {
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    width: 300px;
+    background: #f8f8f8;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.profile-photo[b-lrig8lcdw9] {
+    width: 100%;
+    height: 80%;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}

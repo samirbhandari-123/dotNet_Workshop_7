@@ -60,6 +60,46 @@
       <LastWriteTime>Wed, 10 Dec 2025 13:38:29 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap\bootstrap.min.css.map'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\college.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Workshop7</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>images/college.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>a71migolcp</Fingerprint>
+      <Integrity>av5z53C6rA+iAtpkn2oCPKtlTzhT+YW0Yfz6KsTn5kg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <FileLength>332671</FileLength>
+      <LastWriteTime>Wed, 10 Dec 2025 14:23:18 GMT</LastWriteTime>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\college.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\student1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Workshop7</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>images/student1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ae7pmn93kg</Fingerprint>
+      <Integrity>stPw9+XL0AJk31LZ4id7BkFYtnHrl2H9CD/zaRqvtoE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <FileLength>110040</FileLength>
+      <LastWriteTime>Wed, 10 Dec 2025 14:29:37 GMT</LastWriteTime>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\student1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
       <SourceType>Package</SourceType>
       <SourceId>Workshop7</SourceId>
@@ -92,12 +132,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>l6xgz29hgz</Fingerprint>
-      <Integrity>A9lHZEjwE4ewGvfKp4Sdv3wJCleaOqT/ZvGfpik+ZyU=</Integrity>
+      <Fingerprint>ncl27rb0dv</Fingerprint>
+      <Integrity>acQ8ZKIxxYuGQ0UFsYAT/R73B0emgV4oR1MTYQCOgYY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>5481</FileLength>
-      <LastWriteTime>Wed, 10 Dec 2025 13:38:59 GMT</LastWriteTime>
+      <FileLength>5467</FileLength>
+      <LastWriteTime>Wed, 10 Dec 2025 14:38:17 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Workshop7.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

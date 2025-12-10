@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "D:\\Third Year\\Application Development\\Week 7\\Workshop7\\wwwroot\\images\\college.jpg",
+      "PackagePath": "staticwebassets\\images\\college.jpg"
+    },
+    {
+      "Id": "D:\\Third Year\\Application Development\\Week 7\\Workshop7\\wwwroot\\images\\student1.jpg",
+      "PackagePath": "staticwebassets\\images\\student1.jpg"
+    },
+    {
       "Id": "D:\\Third Year\\Application Development\\Week 7\\Workshop7\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
